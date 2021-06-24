@@ -1,1 +1,1 @@
-web: gunicorn main:app --log-file -
+gunicorn  main:application -b xx.xxx.xxx.xx:8000
