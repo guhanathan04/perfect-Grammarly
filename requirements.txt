@@ -1,2 +1,4 @@
 emoji==1.2.0
 gunicorn==19.0.0
+gingerit==0.8.1
+termcolor==1.1.0
